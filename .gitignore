@@ -5,3 +5,13 @@ node_modules
 .npm
 *.dat
 default.json
+*.bin
+__pycache__
+*.pyc
+*.train
+*.model
+*.log
+.DS_Store
+*log.txt
+Taiba/
+Chatbot
