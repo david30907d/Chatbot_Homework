@@ -1,0 +1,6 @@
+{
+    "appSecret": "XXXXXXXXXXXX",
+    "pageAccessToken": "X",
+    "validationToken": "自己設定的密碼",
+    "serverURL": "可以用ngro設定"
+}
