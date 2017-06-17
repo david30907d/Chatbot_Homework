@@ -1,4 +1,4 @@
-# 這是個參考facebook官方的聊天機器人以及使用zake7749大大作的mianbot架設的fb聊天機器人
+# 這是個參考facebook官方的聊天機器人以及使用zake7749大大作的[mianbot](https://github.com/zake7749/Chatbot)架設的fb聊天機器人
 # Messenger Platform Sample
 
 This is a sample project showcasing the Messenger Platform. You can go through the [walk-through](https://developers.facebook.com/docs/messenger-platform/quickstart) to understand this code in more detail. The [Complete Guide](https://developers.facebook.com/docs/messenger-platform/implementation) goes deeper into the features available.
